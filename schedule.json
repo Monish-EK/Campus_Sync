@@ -1,0 +1,72 @@
+{
+    "events": {
+        "2025-02-25": [
+            {
+                "name": "physics",
+                "start_time": "9:00",
+                "end_time": "10:00"
+            }
+        ],
+        "2025-02-28": [
+            {
+                "name": "HappyFox Hackathon",
+                "start_time": "5:00 PM",
+                "end_time": "7:00 PM"
+            },
+            {
+                "name": "avd",
+                "start_time": "8:00 PM",
+                "end_time": "9:00 PM"
+            }
+        ],
+        "2025-02-26": [],
+        "2025-02-27": [
+            {
+                "name": "ACDG Gaming Event",
+                "start_time": "4:00 PM",
+                "end_time": "5:00 PM"
+            }
+        ],
+        "2025-02-21": [
+            {
+                "name": "agvc gaming",
+                "start_time": "10:00 PM",
+                "end_time": "11:00 PM"
+            }
+        ],
+        "2025-02-22": [
+            {
+                "name": "hackathon",
+                "start_time": "10:00 AM",
+                "end_time": "12:00 AM"
+            }
+        ]
+    },
+    "finalized_dates": [
+        "2025-02-28",
+        "2025-02-27",
+        "2025-02-21",
+        "2025-02-18"
+    ],
+    "assignments": {
+        "2025-02-26": [
+            {
+                "name": "Mini Project Submission",
+                "due_date": "2025-02-27",
+                "staff_name": "Mr. Pradeep"
+            },
+            {
+                "name": "Mini Project Submission",
+                "due_date": "2025-02-24",
+                "staff_name": "Mr. Pradeep"
+            }
+        ],
+        "2025-02-28": [
+            {
+                "name": "Mini Project Submission",
+                "due_date": "5:00 PM",
+                "assigned_staff": "mmm"
+            }
+        ]
+    }
+}
